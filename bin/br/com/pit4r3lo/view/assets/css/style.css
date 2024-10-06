@@ -1,0 +1,24 @@
+.display {
+	-fx-background-color: #343434;
+	-fx-padding: 10px;
+}
+
+.display-label {
+	-fx-font-family: "Courier";
+	-fx-text-fill: white;
+	-fx-font-size: 38px;
+}
+
+.teclado {
+	-fx-background-color: #242424;
+}
+
+.botao {
+	-fx-text-fill: white;
+	-fx-font-size: 20px;
+}
+
+.botao-hover {
+	-fx-opacity: 0.65;
+	-fx-font-size: 20px;
+}
